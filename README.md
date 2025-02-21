@@ -22,3 +22,17 @@ Ticket Booking History<br>
   View Trains<br>
   Profile Edit<br>
   Logout<br>
+
+## Users:
+Register<br>
+Login<br>
+View Trains<br>
+Check Seat Availability<br>
+Search Trains<br>
+Train Avaiablity and Fare Between Stations<br>
+Books Tickets<br>
+View Booking History<br>
+View Profile<br>
+Update Profile<br>
+Change Password<br>
+Logout<br>
