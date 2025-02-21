@@ -15,10 +15,10 @@ Payment Gateway<br>
 Ticket Booking History<br>
 
 ## Admin:
-  Login
-  Add Trains
-  Update Trains
-  Remove or cancle Trains
-  View Trains
-  Profile Edit
-  Logout
+  Login<br>
+  Add Trains<br>
+  Update Trains<br>
+  Remove or cancle Trains<br>
+  View Trains<br>
+  Profile Edit<br>
+  Logout<br>
