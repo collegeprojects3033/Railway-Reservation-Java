@@ -1,0 +1,28 @@
+RailwayReservationSystem/
+│── src/
+│   ├── main/
+│   │   ├── RailwayReservationSystem.java  # Main entry point
+│   │   ├── DatabaseConnection.java        # Handles MySQL connection
+│   │   ├── models/
+│   │   │   ├── User.java                   # User model (Passenger/Admin)
+│   │   │   ├── Train.java                  # Train model
+│   │   │   ├── Reservation.java            # Reservation model
+│   │   ├── dao/
+│   │   │   ├── UserDAO.java                # Handles user-related DB operations
+│   │   │   ├── TrainDAO.java               # Handles train-related DB operations
+│   │   │   ├── ReservationDAO.java         # Handles reservations
+│   │   ├── ui/
+│   │   │   ├── LoginFrame.java             # Login page UI
+│   │   │   ├── RegisterFrame.java          # User Registration UI
+│   │   │   ├── Dashboard.java              # Main dashboard UI
+│   │   │   ├── SearchTrainsFrame.java      # Train search UI
+│   │   │   ├── BookTicketFrame.java        # Ticket booking UI
+│   │   │   ├── CancelTicketFrame.java      # Ticket cancellation UI
+│   │   │   ├── AdminPanel.java             # Admin dashboard
+│── database/
+│   ├── railway_db.sql                      # SQL script for database schema
+│── assets/
+│   ├── images/                              # Store UI images/icons
+│── README.md                                # Project documentation
+│── .gitignore                               # Ignore unnecessary files
+│── railway_reservation.iml                  # IntelliJ project file
